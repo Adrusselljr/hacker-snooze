@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    /* outline: red dotted 1px; */
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar-brand {
+    margin-left: 15px;
+    color: whitesmoke;
+}
+
+main {
+    width: 100%;
+    padding-top: 5px;
+    height: 0 auto;
+    background-color: whitesmoke;
+}
+
+.links {
+    padding: 5px 0px 0px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: rgb(158, 152, 152);
+    font-size: x-small;
+}
